@@ -1,5 +1,5 @@
 # zip-info-pwa
-
+PWA-Netlify
 ## Project setup
 ```
 npm install
